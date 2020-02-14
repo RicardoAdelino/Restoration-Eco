@@ -1,0 +1,233 @@
+,,Diet-Inv,Diet-vert,Diet-Fruit,Diet-Nect,Diet-Seed,Diet-PlantO,Diet-5Cat,ForStrat-ground,ForStrat-understory,ForStrat-midhigh,ForStrat-canopy,ForStrat-aerial,,BodyMass-Value,Tamanho
+Agelaioides badius,spp1,60,0,0,0,40,0,Seed,50,30,20,0,0,inferior,"45,25",small
+Amazilia lactea,spp2,10,0,0,90,0,0,Nect,0,30,30,30,10,todos ,"4,6",small
+Ammodramus aurifrons,spp3,30,0,0,0,70,0,Seed,80,20,0,0,0,inferior,"17,8",small
+Ammodramus humeralis,spp4,20,0,0,0,80,0,Seed,60,30,10,0,0,inferior,"15,99",small
+Anabacerthia lichtensteini,spp5,100,0,0,0,0,0,Invertebrate,0,0,50,50,0,superior,21,small
+Antilophia galeata,spp6,40,0,60,0,0,0,FrugInsect,0,50,50,0,0,médio,"21,48",small
+Aramides cajaneus,spp7,50,20,10,0,10,10,Omnivore,100,0,0,0,0,inferior,397,large
+Aramides saracura,spp8,70,20,10,0,0,0,Omnivore,100,0,0,0,0,inferior,540,large
+Aratinga auricapillus,spp9,0,0,50,0,50,0,Fruit,30,50,20,0,0,superior,130,large
+Arremon semitorquatus,spp10,30,0,40,0,30,0,Omnivore,80,20,0,0,0,inferior,"28,08",small
+Athene cunicularia,spp11,20,80,0,0,0,0,Vertebrate,80,10,10,0,0,inferior,"150,61",large
+Baryphthengus ruficapillus,spp12,60,20,20,0,0,0,Omnivore,50,20,30,0,0,inferior,"141,65",large
+Basileuterus culicivorus,spp13,80,0,20,0,0,0,Invertebrate,0,70,30,0,0,inferior,"10,5",small
+Brotogeris chiriri,spp14,0,0,50,10,20,20,Omnivore,30,30,20,20,0,todos ,"61,6",small
+Cacicus cela,spp15,40,0,60,0,0,0,FrugInsect,0,0,20,80,0,superior,"85,45",large
+Cacicus chrysopterus,spp16,50,0,50,0,0,0,FrugInsect,0,0,80,20,0,médio,"36,16",small
+Cacicus haemorrhous,spp17,60,0,20,20,0,0,Omnivore,0,20,60,20,0,médio,"83,71",large
+Campephilus melanoleucos,spp18,80,0,20,0,0,0,Invertebrate,0,0,100,0,0,médio,256,large
+Camptostoma obsoletum,spp19,70,0,30,0,0,0,Invertebrate,0,0,80,20,0,médio,"8,1",small
+Capsiempis flaveola,spp20,90,0,10,0,0,0,Invertebrate,0,0,100,0,0,médio,"7,7",small
+Caracara plancus,spp21,20,80,0,0,0,0,Vertebrate,100,0,0,0,0,inferior,"1078,62",large
+Casiornis rufus,spp22,100,0,0,0,0,0,Invertebrate,0,40,30,30,0,todos ,"24,8",small
+Celeus flavescens,spp23,70,0,30,0,0,0,Invertebrate,20,30,50,0,0,todos ,139,large
+Celeus grammicus,spp24,50,0,50,0,0,0,FrugInsect,0,0,80,20,0,médio,"73,44",small
+Celeus torquatus,spp25,50,0,0,0,50,0,Seed,0,20,60,20,0,médio,134,large
+Chamaeza campanisoma,spp26,70,0,30,0,0,0,Invertebrate,80,20,0,0,0,inferior,"90,58",large
+Chiroxiphia caudata,spp27,50,0,50,0,0,0,FrugInsect,0,50,50,0,0,inferior,"25,6",small
+Chlorostibon lucidus,spp28,10,0,0,90,0,0,Nect,0,0,90,10,0,médio,"3,5",small
+Cissopis leverianus,spp29,30,0,70,0,0,0,Fruit,20,30,30,20,0,todos ,76,small
+Cnemotriccus fuscatus,spp30,100,0,0,0,0,0,Invertebrate,40,40,20,0,0,inferior,"13,6",small
+Coccyzus melacoryphus,spp31,100,0,0,0,0,0,Invertebrate,50,30,20,0,0,inferior,"49,71",small
+Coereba flaveola,spp32,30,0,0,70,0,0,Nect,0,80,20,0,0,inferior,"10,01",small
+Colaptes campestris,spp33,90,10,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,158,large
+Colaptes melanochloros,spp34,80,0,10,10,0,0,Invertebrate,0,50,50,0,0,médio,"127,27",large
+Colibri serrirostris,spp35,10,0,0,90,0,0,Nect,0,70,30,0,0,inferior,"6,7",small
+Colonia colonus,spp36,100,0,0,0,0,0,Invertebrate,0,30,70,0,0,médio,"18,3",small
+Columbina passerina,spp37,10,0,40,0,50,0,Omnivore,100,0,0,0,0,inferior,"35,36",small
+Columbina picui,spp38,0,0,0,0,100,0,Seed,100,0,0,0,0,inferior,47,small
+Columbina squammata,spp39,20,0,0,0,80,0,Seed,100,0,0,0,0,inferior,"52,9",small
+Columbina talpacoti,spp40,10,0,0,0,90,0,Seed,100,0,0,0,0,inferior,"46,04",small
+Conirostrum speciosum,spp41,70,0,10,0,10,10,Omnivore,60,20,20,0,0,superior,"8,8",small
+Conopophaga lineata,spp42,100,0,0,0,0,0,Invertebrate,60,40,0,0,0,inferior,"25,21",small
+Corythopis delalandi,spp43,90,10,0,0,0,0,Invertebrate,80,20,0,0,0,inferior,15,small
+Crax alector,spp44,0,0,90,0,0,10,Fruit,80,20,0,0,0,inferior,2872,large
+Crotophaga ani,spp45,40,40,10,0,10,0,Omnivore,40,30,30,0,0,inferior,"110,09",large
+Crypturellus obsoletus,spp46,50,0,0,0,50,0,Seed,100,0,0,0,0,inferior,"443,4",large
+Crypturellus parvirostris,spp47,40,0,0,0,60,0,Seed,100,0,0,0,0,inferior,"198,99",large
+Crypturellus tataupa,spp48,50,0,0,0,30,20,Omnivore,50,50,0,0,0,inferior,"218,8",large
+Crypturellus variegatus,spp49,0,0,100,0,0,0,Fruit,100,0,0,0,0,inferior,378,large
+Cyanocorax chrysops,spp50,80,0,20,0,0,0,Invertebrate,10,30,30,30,0,todos ,166,large
+Cyanocorax cristatellus,spp51,40,10,40,10,0,0,Omnivore,60,20,20,0,0,inferior,178,large
+Cyanoloxia brissonii,spp52,20,0,70,0,10,0,Omnivore,50,50,0,0,0,inferior,"27,5",small
+Cyanoloxia glaucocaerulea,spp53,40,0,20,0,30,10,Omnivore,50,50,0,0,0,inferior,"18,2",small
+Cyclarhis gujanensis,spp54,100,0,0,0,0,0,Invertebrate,0,40,40,20,0,médio,"28,8",small
+Dacnis cayana,spp55,50,0,40,0,0,10,FrugInsect,0,0,30,60,10,superior,13,small
+Dendrocolaptes platyrostris,spp56,80,0,0,0,0,20,Invertebrate,50,50,0,0,0,inferior,"61,7",small
+Drymophila malura,spp57,100,0,0,0,0,0,Invertebrate,40,40,20,0,0,inferior,13,small
+Drymophila rubricollis,spp58,100,0,0,0,0,0,Invertebrate,0,20,80,0,0,médio,10,small
+Dryocopus lineatus,spp59,80,0,10,0,10,0,Invertebrate,20,20,60,0,0,médio,"183,19",large
+Dysithamnus mentalis,spp60,90,0,10,0,0,0,Invertebrate,0,40,40,20,0,médio,"14,87",small
+Elaenia flavogaster,spp61,50,0,50,0,0,0,FrugInsect,0,20,40,30,10,todos ,"24,8",small
+Elaenia mesoleuca,spp62,50,0,50,0,0,0,FrugInsect,0,20,40,40,0,todos ,"17,6",small
+Elaenia parvirostris,spp63,70,0,30,0,0,0,Invertebrate,0,33,34,33,0,todos ,"13,8",small
+Elanus leucurus,spp64,0,100,0,0,0,0,Vertebrate,80,0,0,0,20,inferior,346,large
+Eleoscytalopus indigoticus,spp65,100,0,0,0,0,0,Invertebrate,60,40,0,0,0,inferior,"16,15",small
+Emberizoides herbicola,spp66,40,0,20,0,30,10,Omnivore,70,30,0,0,0,inferior,"27,55",small
+Embernagra platensis,spp67,40,0,20,0,30,10,Omnivore,20,60,20,0,0,inferior,"45,5",small
+Empidonomus varius,spp68,60,0,40,0,0,0,FrugInsect,0,30,70,0,0,médio,"27,1",small
+Estrilda astrild,spp69,0,0,0,0,100,0,Seed,50,50,0,0,0,inferior,"8,29",small
+Euphonia chlorotica,spp70,0,0,100,0,0,0,Fruit,0,0,10,90,0,superior,11,small
+Euphonia cyanocephala,spp71,0,0,100,0,0,0,Fruit,0,20,40,40,0,superior,14,small
+Euscarthmus meloryphus,spp72,100,0,0,0,0,0,Invertebrate,0,100,0,0,0,inferior,"6,8",small
+Falco femoralis,spp73,50,50,0,0,0,0,Omnivore,30,30,20,10,10,todos ,"335,76",large
+Fluvicola nengeta,spp74,100,0,0,0,0,0,Invertebrate,60,40,0,0,0,inferior,21,small
+Forpus xanthopterus,spp75,0,0,50,0,50,0,Fruit,100,0,0,0,0,inferior,31,small
+Furnarius rufus,spp76,80,0,0,0,20,0,Invertebrate,70,30,0,0,0,inferior,"46,42",small
+Galbula ruficauda,spp77,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,"26,5",small
+Geothlypis aequinoctialis,spp78,100,0,0,0,0,0,Invertebrate,0,100,0,0,0,inferior,"13,1",small
+Geotrygon montana,spp79,20,0,30,0,50,0,Omnivore,100,0,0,0,0,inferior,"133,86",large
+Geranoaetus albicaudatus,spp80,10,90,0,0,0,0,Vertebrate,100,0,0,0,0,inferior,885,large
+Geranospiza caerulescens,spp81,30,70,0,0,0,0,Vertebrate,20,30,50,0,0,médio,"302,5",large
+Glaucidium brasilianum,spp82,60,40,0,0,0,0,Omnivore,80,10,10,0,0,inferior,"75,1",small
+Gnorimopsar chopi,spp83,40,0,20,0,30,10,Omnivore,60,10,30,0,0,inferior,"65,9",small
+Griseotyrannus aurantioatrocristatus,spp84,80,0,20,0,0,0,Invertebrate,0,33,34,33,0,todos ,33,small
+Guira guira,spp85,40,60,0,0,0,0,Omnivore,70,20,10,0,0,inferior,141,large
+Habia rubica,spp86,80,0,20,0,0,0,Invertebrate,0,40,60,0,0,médio,"32,46",small
+Hemithraupis flavicollis,spp87,60,0,40,0,0,0,FrugInsect,0,0,20,80,0,superior,"12,8",small
+Hemithraupis guira,spp88,80,0,10,0,10,0,Invertebrate,0,0,10,90,0,superior,12,small
+Hemitriccus obsoletus,spp89,100,0,0,0,0,0,Invertebrate,0,80,20,0,0,inferior,"11,6",small
+Herpetotheres cachinnans,spp90,0,100,0,0,0,0,Vertebrate,33,34,33,0,0,inferior,"623,58",large
+Hirundinea ferruginea,spp91,100,0,0,0,0,0,Invertebrate,0,33,34,33,0,todos ,"30,6",small
+Hylocharis chrysura,spp92,10,0,0,90,0,0,Nect,0,20,40,30,10,todos ,"4,5",small
+Hypoedaleus guttatus,spp93,90,10,0,0,0,0,Invertebrate,0,0,100,0,0,médio,"38,8",small
+Icterus pyrropterus,spp94,70,0,0,30,0,0,Invertebrate,0,20,40,40,0,todos ,"35,44",small
+Ictinea plumbea,spp95,90,10,0,0,0,0,Invertebrate,0,0,0,20,80,superior,"249,9",large
+Lanio cucullatus,spp96,0,0,50,0,50,0,Fruit,0,60,40,0,0,inferior,"14,28",small
+Lathrotriccus euleri,spp97,100,0,0,0,0,0,Invertebrate,0,100,0,0,0,inferior,"11,33",small
+Legatus leucophaius,spp98,30,0,70,0,0,0,Fruit,0,0,20,80,0,superior,"22,2",small
+Lepidocolaptes angustirostris,spp99,100,0,0,0,0,0,Invertebrate,0,40,60,0,0,médio,"29,59",small
+Lepidocolaptes falcinellus,spp100,100,0,0,0,0,0,Invertebrate,0,0,50,50,0,médio,"27,92",small
+Leptodon cayanensis,spp101,50,50,0,0,0,0,Omnivore,0,50,50,0,0,inferior,474,large
+Leptopogon amaurocephalus,spp102,80,0,20,0,0,0,Invertebrate,0,50,50,0,0,inferior,"11,7",small
+Leptotila rufaxila,spp103,10,0,10,0,80,0,Seed,100,0,0,0,0,inferior,157,large
+Leptotila verreauxi,spp104,20,0,20,0,60,0,Omnivore,100,0,0,0,0,inferior,"146,88",large
+Lipaugus vociferans,spp105,50,0,50,0,0,0,FrugInsect,0,50,50,0,0,médio,"75,42",small
+Lurocalis semitroquatus,spp106,100,0,0,0,0,0,Invertebrate,0,0,70,10,20,médio,"75,9",small
+Machetornis rixosa,spp107,100,0,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,"29,6",small
+Mackenziaena severa,spp108,60,40,0,0,0,0,Omnivore,30,40,30,0,0,inferior,"51,8",small
+Megarynchus pitangua,spp109,70,0,20,0,10,0,Omnivore,0,10,50,40,0,todos ,"69,91",small
+Megascops choliba,spp110,90,10,0,0,0,0,Invertebrate,40,50,0,0,10,inferior,132,large
+Melanerpes candidus,spp111,20,0,60,0,20,0,Omnivore,0,50,50,0,0,médio,108,large
+Melanerpes flavifrons,spp112,30,0,40,0,30,0,Omnivore,0,50,50,0,0,médio,"57,78",small
+Microspingus cabanisi,spp113,40,0,20,0,30,10,Omnivore,100,0,0,0,0,inferior,"19,2",small
+Milvago chimachima,spp114,20,70,10,0,0,0,Omnivore,100,0,0,0,0,inferior,"315,21",large
+Mimus saturninus,spp115,100,0,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,"63,7",small
+Molothrus bonariensis,spp116,70,0,0,0,30,0,Invertebrate,100,0,0,0,0,inferior,"41,49",small
+Myiarchus ferox,spp117,50,0,50,0,0,0,FrugInsect,0,80,20,0,0,inferior,"27,5",small
+Myiarchus swainsoni,spp118,70,0,20,0,10,0,Omnivore,0,100,0,0,0,inferior,"25,1",small
+Myiodinastes maculatus,spp119,40,30,30,0,0,0,Omnivore,0,0,100,0,0,médio,"43,2",small
+Myiopagis caniceps,spp120,80,0,20,0,0,0,Invertebrate,0,0,0,100,0,superior,"10,5",small
+Myiopagis viridicata,spp121,60,0,20,0,20,0,Omnivore,0,0,50,50,0,médio,"11,51",small
+Myiophobus fasciatus,spp122,80,0,20,0,0,0,Invertebrate,0,100,0,0,0,inferior,"9,9",small
+Myiornis auricularis,spp123,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,"5,3",small
+Myiothlypis flaveola,spp124,100,0,0,0,0,0,Invertebrate,60,40,0,0,0,inferior,"13,19",small
+Myiothlypis leucoblephara,spp125,100,0,0,0,0,0,Invertebrate,50,50,0,0,0,inferior,"15,1",small
+Myiozetetes similis,spp126,40,10,40,0,10,0,Omnivore,20,20,40,20,0,todos ,28,small
+Nemosia pileata,spp127,100,0,0,0,0,0,Invertebrate,0,30,70,0,0,médio,16,small
+Neothraupis fasciata,spp128,80,0,10,0,10,0,Invertebrate,60,20,20,0,0,inferior,"26,8",small
+Nothura maculosa,spp129,40,0,30,0,30,0,Omnivore,100,0,0,0,0,inferior,"257,48",large
+Nyctidromus albicollis,spp130,100,0,0,0,0,0,Invertebrate,40,30,20,0,10,inferior,"57,84",small
+Ortalis momot,spp131,0,0,100,0,0,0,Fruit,33,0,34,33,0,todos ,520,large
+Pachyramphus polychopterus,spp132,50,0,50,0,0,0,FrugInsect,0,0,100,0,0,médio,"20,8",small
+Pachyramphus validus,spp133,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,43,small
+Patagioenas cayennensis,spp134,0,0,70,0,30,0,Fruit,20,0,40,40,0,todos ,229,large
+Patagioenas picazuro,spp135,10,0,30,0,30,30,Omnivore,30,30,30,10,0,todos ,279,large
+Patagioenas plumbea,spp136,0,0,50,0,50,0,Fruit,0,0,30,70,0,superior,"178,77",large
+Penelope superciliaris,spp137,10,0,90,0,0,0,Fruit,33,0,34,33,0,todos ,"894,99",large
+Phaeomyias murina,spp138,60,0,40,0,0,0,FrugInsect,0,33,34,33,0,todos ,10,small
+Phaethornis eurynome,spp139,10,0,0,90,0,0,Nect,0,100,0,0,0,inferior,"5,3",small
+Phaethornis pretrei,spp140,10,0,0,90,0,0,Nect,0,100,0,0,0,inferior,"5,6",small
+Phyllomyias fasciatus,spp141,80,0,20,0,0,0,Invertebrate,0,0,0,100,0,superior,"10,3",small
+Phylloscartes paulista,spp142,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,"7,48",small
+Phylloscartes ventralis,spp143,100,0,0,0,0,0,Invertebrate,0,0,100,0,0,médio,"8,3",small
+Piaya cayana,spp144,100,0,0,0,0,0,Invertebrate,0,0,20,80,0,superior,"101,98",large
+Piculus aurulentus,spp145,100,0,0,0,0,0,Invertebrate,0,0,100,0,0,médio,"74,99",small
+Picumnus cirratus,spp146,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,inferior,"10,2",small
+Picumnus temminckii,spp147,100,0,0,0,0,0,Invertebrate,0,80,20,0,0,inferior,"11,5",small
+Pionus maximiliani,spp148,0,0,10,0,70,20,Omnivore,0,30,50,20,0,médio,293,large
+Pipra erythrocephala,spp149,20,0,80,0,0,0,Fruit,0,50,50,0,0,inferior,"13,43",small
+Pipraeidea melanonota,spp150,30,0,50,0,20,0,Omnivore,0,10,20,60,10,todos ,21,small
+Pitangus sulphuratus,spp151,40,30,30,0,0,0,Omnivore,50,40,10,0,0,inferior,"62,85",small
+Poecilotriccus plumbeiceps,spp152,100,0,0,0,0,0,Invertebrate,0,100,0,0,0,inferior,"5,7",small
+Progne tapera,spp153,100,0,0,0,0,0,Invertebrate,0,30,20,20,30,todos ,32,small
+Psarocolius viridis,spp154,60,0,40,0,0,0,FrugInsect,0,0,50,50,0,superior,"286,95",large
+Pseudoleistes guirahuro,spp155,40,0,20,0,30,10,Omnivore,100,0,0,0,0,inferior,"86,42",large
+Psittacara leucophthalmus,spp156,10,0,30,0,30,30,Omnivore,20,20,40,20,0,todos ,158,large
+Pteroglossus bailloni,spp157,0,10,90,0,0,0,Fruit,0,0,60,40,0,médio,146,large
+Pteroglossus viridis,spp158,0,0,100,0,0,0,Fruit,0,33,34,33,0,todos ,135,large
+Pyriglena leucoptera,spp159,90,10,0,0,0,0,Invertebrate,40,40,20,0,0,inferior,"28,8",small
+Pyrocephalus rubinus,spp160,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,"14,4",small
+Pyroderus scutatus,spp161,40,0,60,0,0,0,FrugInsect,0,50,50,0,0,médio,357,large
+Pyrrhocoma ruficeps,spp162,100,0,0,0,0,0,Invertebrate,0,80,20,0,0,inferior,"15,6",small
+Pyrrhura frontalis,spp163,10,0,30,0,30,30,Omnivore,0,30,50,20,0,todos ,72,small
+Ramphastos dicolorus,spp164,10,10,80,0,0,0,Fruit,20,0,0,80,0,superior,331,large
+Ramphastos toco,spp165,20,10,70,0,0,0,Omnivore,20,10,10,60,0,todos ,"617,99",large
+Ramphastos tucanus,spp166,10,20,50,10,0,10,Omnivore,0,0,20,80,0,superior,"659,58",large
+Ramphastos vitellinus,spp167,20,20,60,0,0,0,Omnivore,10,10,50,30,0,todos ,"360,36",large
+Ramphocelus carbo,spp168,50,0,50,0,0,0,FrugInsect,0,50,40,10,0,todos ,"25,92",small
+Rupornis magnirostris,spp169,40,60,0,0,0,0,Omnivore,33,34,33,0,0,inferior,269,large
+Saltator fuliginosus,spp170,60,0,30,10,0,0,Omnivore,0,0,60,40,0,médio,"50,5",small
+Saltator similis,spp171,60,0,30,10,0,0,Omnivore,0,70,30,0,0,inferior,"43,3",small
+Saltatricula atricollis,spp172,60,0,30,10,0,0,Omnivore,60,20,20,0,0,inferior,"53,8",small
+Satrapa icterophrys,spp173,100,0,0,0,0,0,Invertebrate,0,60,40,0,0,inferior,"21,5",small
+Selenidera maculirostris,spp174,20,0,80,0,0,0,Fruit,0,20,40,40,0,todos ,164,large
+Selenidera piperivora,spp175,40,0,60,0,0,0,FrugInsect,0,0,20,80,0,superior,147,large
+Serpophaga subcristata,spp176,100,0,0,0,0,0,Invertebrate,0,33,34,33,0,todos ,"6,6",small
+Setophaga pitiayumi,spp177,70,0,20,0,0,10,Omnivore,0,0,0,100,0,superior,"6,82",small
+Sicalis flaveola,spp178,0,0,0,0,100,0,Seed,40,60,0,0,0,inferior,"16,89",small
+Sicalis luteola,spp179,0,0,0,0,100,0,Seed,30,70,0,0,0,inferior,"15,9",small
+Sirystes sibilator,spp180,80,0,20,0,0,0,Invertebrate,0,0,0,100,0,superior,"32,3",small
+Sittasomus griseicapillus,spp181,90,0,0,0,0,10,Invertebrate,0,0,50,50,0,médio,"13,12",small
+Spinus magellanicus,spp182,10,0,0,0,30,60,Omnivore,33,34,33,0,0,inferior,"13,6",small
+Sporophila caerulescens,spp183,20,0,0,0,80,0,Seed,50,50,0,0,0,inferior,"9,73",small
+Sporophila nigricollis,spp184,20,0,0,0,80,0,Seed,30,70,0,0,0,inferior,"9,6",small
+Sporophila plumbea,spp185,20,0,0,0,80,0,Seed,100,0,0,0,0,inferior,"9,7",small
+Synallaxis cinerascens,spp186,100,0,0,0,0,0,Invertebrate,50,50,0,0,0,inferior,"13,1",small
+Synallaxis frontalis,spp187,100,0,0,0,0,0,Invertebrate,20,80,0,0,0,inferior,14,small
+Synallaxis ruficapilla,spp188,100,0,0,0,0,0,Invertebrate,20,60,20,0,0,inferior,"13,8",small
+Synallaxis spixi,spp189,100,0,0,0,0,0,Invertebrate,20,80,0,0,0,inferior,"12,6",small
+Syndactyla rufosuperciliata,spp190,100,0,0,0,0,0,Invertebrate,20,30,50,0,0,médio,"25,6",small
+Syrigma sibilatrix,spp191,70,30,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,463,large
+Tachyphonus coronatus,spp192,60,0,20,0,20,0,Omnivore,0,20,40,40,0,todos ,"29,3",small
+Tangara cayana,spp193,10,0,90,0,0,0,Fruit,0,30,40,30,0,todos ,18,small
+Tangara episcopus,spp194,40,0,50,0,0,10,FrugInsect,0,10,90,0,0,médio,35,small
+Tangara palmarum,spp195,10,0,60,10,20,0,Omnivore,0,0,20,70,10,superior,39,small
+Tangara sayaca,spp196,10,0,50,0,40,0,Omnivore,10,0,20,70,0,superior,"32,49",small
+Tapera naevia,spp197,100,0,0,0,0,0,Invertebrate,50,30,20,0,0,inferior,"48,42",small
+Tersina viridis,spp198,30,0,70,0,0,0,Fruit,0,10,60,30,0,todos ,29,small
+Thalurania furcata,spp199,10,0,0,90,0,0,Nect,10,30,30,30,0,todos ,"4,19",small
+Thalurania glaucopis,spp200,10,0,0,90,0,0,Nect,0,60,40,0,0,inferior,"4,8",small
+Thamnophilus caerulescens,spp201,80,0,10,0,10,0,Invertebrate,0,60,40,0,0,inferior,"21,1",small
+Thamnophilus doliatus,spp202,100,0,0,0,0,0,Invertebrate,30,30,40,0,0,inferior,"27,03",small
+Thamnophilus ruficapillus,spp203,90,0,10,0,0,0,Invertebrate,0,20,80,0,0,médio,"20,4",small
+Theristicus caudatus,spp204,70,30,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,1726,large
+Thlypopsis sordida,spp205,50,0,30,0,20,0,Omnivore,0,0,70,30,0,médio,17,small
+Tityra cayana,spp206,20,0,80,0,0,0,Fruit,0,50,50,0,0,médio,"68,1",small
+Tityra inquisitor,spp207,20,0,80,0,0,0,Fruit,0,0,100,0,0,médio,"43,1",small
+Todirostrum cinereum,spp208,90,0,10,0,0,0,Invertebrate,0,33,34,33,0,todos ,"6,29",small
+Tolmomyias sulphurescens,spp209,90,0,10,0,0,0,Invertebrate,0,30,70,0,0,médio,"14,3",small
+Trichothraupis melanops,spp210,70,0,20,0,10,0,Omnivore,30,30,20,10,10,todos ,"22,58",small
+Troglodytes musculus,spp211,80,0,0,0,0,20,Invertebrate,0,100,0,0,0,inferior,"10,85",small
+Trogon melanurus,spp212,30,0,70,0,0,0,Fruit,0,10,30,60,0,superior,114,large
+Trogon rufus,spp213,60,0,40,0,0,0,FrugInsect,10,60,30,0,0,inferior,"53,8",small
+Trogon surrucura,spp214,80,0,20,0,0,0,Invertebrate,0,0,100,0,0,médio,"73,29",small
+Trogon violaceus,spp215,20,0,80,0,0,0,Fruit,0,70,20,10,0,inferior,"46,5",small
+Trogon viridis,spp216,30,10,60,0,0,0,Omnivore,10,0,30,60,0,todos ,"89,69",large
+Turdus albicollis,spp217,60,0,40,0,0,0,FrugInsect,80,0,20,0,0,inferior,54,small
+Turdus amaurochalinus,spp218,40,0,60,0,0,0,FrugInsect,20,20,30,30,0,todos ,"57,9",small
+Turdus leucomelas,spp219,70,0,30,0,0,0,Invertebrate,60,20,20,0,0,inferior,"69,1",small
+Turdus rufiventris,spp220,50,0,50,0,0,0,FrugInsect,100,0,0,0,0,inferior,"69,44",small
+Turdus subalaris,spp221,40,0,60,0,0,0,FrugInsect,20,40,40,0,0,inferior,"49,5",small
+Tyrannus albogularis,spp222,100,0,0,0,0,0,Invertebrate,0,50,50,0,0,médio,"37,1",small
+Tyrannus melancholicus,spp223,100,0,0,0,0,0,Invertebrate,0,0,50,50,0,médio,"37,4",small
+Tyrannus savana,spp224,70,0,30,0,0,0,Invertebrate,50,50,0,0,0,inferior,"31,9",small
+Veniliornis spilogaster,spp225,80,0,20,0,0,0,Invertebrate,0,50,50,0,0,médio,"40,3",small
+Vireo chivi,spp226,60,0,20,0,20,0,Omnivore,0,0,20,80,0,superior,"16,06",small
+Volatinia jacarina,spp227,40,0,20,0,30,10,Omnivore,100,0,0,0,0,inferior,"9,94",small
+Xenops rutilans,spp228,100,0,0,0,0,0,Invertebrate,0,20,80,0,0,médio,"11,2",small
+Xiphocolaptes albicollis,spp229,80,20,0,0,0,0,Invertebrate,0,0,100,0,0,médio,118,large
+Xolmis velatus,spp230,100,0,0,0,0,0,Invertebrate,100,0,0,0,0,inferior,"49,08",small
+Zenaida auriculata,spp231,0,0,0,0,100,0,Seed,20,20,40,20,0,todos ,"110,2",large
+Zonotrichia capensis,spp232,30,0,0,0,50,20,Omnivore,100,0,0,0,0,inferior,"20,31",small
