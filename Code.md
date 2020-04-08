@@ -7,7 +7,7 @@ devtools::install_url("https://github.com/wilkelab/cowplot/archive/0.6.3.zip")
 devtools::install_github("kassambara/factoextra") 
 ```
 
-# Loading used Packages
+## Loading packages
 ```
 library(factoextra)
 library(tidyr)
@@ -18,7 +18,7 @@ library(betapart)
 library(vegan)
 ```
 
-# Bird’s functional traits
+## Bird’s functional traits
 ``` 
 tabela<-read.csv("traits_per.csv", header = T, dec = ",")  
 colnames(tabela)<-c("specie", "Id","Diet.Inv", "Diet.vert", "Diet.Fruit","Diet.Nect", "Diet.Seed","Diet.PlantO","Diet.Cat","ForStrat.ground","ForStrat.understory","ForStrat.midhigh","ForStrat.canopy","ForStrat.aerial","Strat.CAT","BodyMass.Value","Size.CAT") 
@@ -28,7 +28,9 @@ colnames(dados)<-tabela$specie
 dados.scl<-scale(dados)
 dados.redim<-t(dados.scl)
 ```
-# Hybrid K means with K-number of clusters.
+## Hybrid K means with K-number of clusters.
+This function calculates the Hybrid K-means from 2 to 30 groups.
+
 ```
 k.max <- 30 
 sil <- rep(0, k.max) 
@@ -39,29 +41,30 @@ for(i in 2:k.max){
 }
 ```
 
-# Detect the the optimal number of K-grous for the data 
-This step allow to generate the Suplementary figure 3D
+## Detect the the optimal number of K-grous for the data 
+This step allows to generate the *Supplementary figure 3D*
 ```
 tst <- data.frame(sil = sil, k = seq(1, k.max, 1))
 plot_sil<-ggplot(data=tst[-1,], aes(x=as.factor(k), y=as.factor(round(sil,3)), group=1)) +  geom_line() +  geom_point(data=tst[c(5,8,15),], colour="red", aes(x=as.factor(k), y=as.factor(round(sil,3))), size=2) + geom_text_repel(data=tst[c(5,8,15),], aes(label=c("I","II","III"))) + labs(x = "Number of groups",y = "Mean Silhouette") + theme(legend.position = "none") + theme_classic() 
 ```
 
-# Hybrid K-means with optimal number of K-groups (N=15). 
-Here we are indicating only the code to generate for K = 15 gropus. To generate the Table 3 in main text, it is necessary execute this code replacing replacing K =15 for K=5 and K=8. 
+## Hybrid K-means with optimal number of K-groups (N=15). 
+Here we are indicating only the code to generate for **K = 15** groups. To generate the *Table 3* in main text, it is necessary execute this code replacing **K =15** for **K=5** and **K=8**. 
 ```
 hkm.res <- hkmeans(dados.redim, k = 15, iter.max = 100) 
 sil = silhouette (hkm.res$cluster, dist(dados.redim))
 ```
 
-# Traits that significantly contributed to the formation of the cluster (See table S3 for K = 15)
+## Traits that significantly contributed to the formation of the cluster 
+For **K = 15** see *Supplementary table 3* 
 ```
 v.test <- data.frame(cbind(cluster = hkm.res$cluster, dados.redim))
 v.test$cluster <- as.factor(v.test$cluster)
 ct.res <- FactoMineR::catdes(v.test, proba = 0.05, num.var = 1)
 ```
 
-# Retaining information about silhouette 
-This step allows to detect the group that each species fall within. Here we are indicating only the code to generate for K = 15 gropus. For a compreehensive effect of the number of groups in species clustering it will be necessary execute this code replacing K =15 for K=5 and K=8. This is an essential step for Labelling the functional groups.
+## Retaining information about silhouette 
+This step allows identifying which group each species fall within. In this step, the group is represented by factor *i.e. 1,2,3...*. For more details on how to create the functional groups' names see *Labelling the functional groups* section in the main text. Here we are indicating only the code to clustering species for **K = 15** groups. In order to get a more comprehensive effect of the number of groups in species clustering it will be necessary to execute this code replacing **K =15** for **K=5** and **K=8**.
 
 ```
 sil.info<-as.data.frame(sil[,1:3])
@@ -70,7 +73,8 @@ sil.data<-sil.sp[order(sil.sp$cluster, -sil.sp$sil_width), ]
 ```
 
 
-# Restoration age (see Suplementary Figure 5)
+## Restoration age (see Suplementary Figure 5)
+This step allows to generate the *Supplementary figure 5*
 
 ```
 lista<-read.csv('Tabela por papers2.csv', header = T)
@@ -100,7 +104,9 @@ boxp<-ggplot(tidy.raw, aes(x=ages, y=Riqueza, fill=ages)) +
   theme(strip.text.x = element_text(face="bold"), legend.position="none", strip.background = element_rect(colour = 'black', fill = 'white')) 
 ```
 
-# Bird assemblage and restoration ages (see Table 2)
+## Bird assemblage and restoration ages (see Table 2)
+This step allows to generate the *main table 2* and the *ordination plot*.
+
 ```
 lista<-read.csv('Tabela por papers2.csv', header = T)
 lista2<-t(lista[,-c(1,2)])
