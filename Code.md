@@ -63,7 +63,7 @@ v.test$cluster <- as.factor(v.test$cluster)
 ct.res <- FactoMineR::catdes(v.test, proba = 0.05, num.var = 1)
 ```
 
-## Retaining information about silhouette 
+## Retaining information about the silhouette
 This step allows identifying which group each species fall within. In this step, the group is represented by factor *i.e. 1,2,3...*. For more details on how to create the functional groups' names see *Labelling the functional groups* section in the main text. Here we are indicating only the code to clustering species for **K = 15** groups. In order to get a more comprehensive effect of the number of groups in species clustering it will be necessary to execute this code replacing **K =15** for **K=5** and **K=8**.
 
 ```
@@ -73,7 +73,7 @@ sil.data<-sil.sp[order(sil.sp$cluster, -sil.sp$sil_width), ]
 ```
 
 
-## Restoration age (see Suplementary Figure 5)
+## Restoration age 
 This step allows to generate the *Supplementary figure 5*
 
 ```
@@ -104,7 +104,7 @@ boxp<-ggplot(tidy.raw, aes(x=ages, y=Riqueza, fill=ages)) +
   theme(strip.text.x = element_text(face="bold"), legend.position="none", strip.background = element_rect(colour = 'black', fill = 'white')) 
 ```
 
-## Bird assemblage and restoration ages (see Table 2)
+## Bird assemblage and restoration ages 
 This step allows to generate the *main table 2* and the *ordination plot*.
 
 ```
